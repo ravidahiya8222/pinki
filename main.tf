@@ -11,6 +11,6 @@ resource "azurerm_resource_group" "rg2q" {
 
 asd
 asc
-
+priyanka
 
  
